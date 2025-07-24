@@ -1,8 +1,6 @@
-<img src="https://cdn-icons-png.flaticon.com/512/1345/1345823.png" width="80px" />
+# ✨ Pasha1337
 
-# ✨ dein_username
-
-Ein moderner Entwickler mit Fokus auf Frontend, UI/UX und kreatives Design.
+A modern developer with a focus on frontend, UI/UX and creative design.
 
 ---
 
@@ -18,7 +16,6 @@ Ein moderner Entwickler mit Fokus auf Frontend, UI/UX und kreatives Design.
 💻 **Tech Stack**:  
 <img src="https://img.shields.io/badge/HTML-Ready-orange?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-Styled-blue?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-Enabled-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
 
 ---
 
@@ -36,5 +33,4 @@ Ein moderner Entwickler mit Fokus auf Frontend, UI/UX und kreatives Design.
 
 ## 📬 Contact  
 <img src="https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord&logoColor=white" />  
-Discord: `deinname#1234`  
-E-Mail: dein.email@example.com
+Discord: `Soon`  
